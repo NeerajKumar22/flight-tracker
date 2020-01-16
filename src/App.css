@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.app-title {
+  text-align: left;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.input-container {
+  margin: 100px;
+}
+
+.calendar {
+  width: 12rem;
+  height: 35px;
+  font-size: medium;
+  border-radius: 5px;
+}
+
+.button-margin-top {
+  margin-top: 30px;
+}
